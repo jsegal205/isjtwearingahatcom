@@ -1,3 +1,5 @@
+Archiving in favor of [jimsegal.com/jt-hat](https://github.com/jsegal205/jimsegal-com/pull/3)
+
 # IsJTwearingahat.com
 
 Are you JT or someone you know named JT? Want to know if they are wearing a hat? Check out [https://isjtwearingahat.com](https://isjtwearingahat.com) to see if they are
